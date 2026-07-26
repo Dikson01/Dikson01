@@ -290,6 +290,14 @@ Complaint Management System for citizens with admin dashboard.
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dikson01/Dikson01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
 # 🌐 Connect With Me
 
 <p align="center">
