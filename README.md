@@ -20,18 +20,26 @@ Role: QA Automation Engineer
 Location: India 🇮🇳
 
 Current Focus:
+  - QA Automation
   - Playwright
-  - TypeScript
+  - Selenium
   - API Testing
   - CI/CD
   - Docker
-  - AI Testing
 
-Learning:
+Experienced With:
+  - Django
+  - Flask
+  - Python
+  - JavaScript
+  - HTML/CSS
+  - SQL
+
+Currently Improving:
   - Advanced Playwright
-  - Selenium
-  - GitHub Actions
   - AI Testing
+  - DSA
+  - System Design Basics
 
 Current Mission:
   Build scalable automation frameworks,
@@ -80,3 +88,222 @@ Fun Fact:
 
 </div>
 
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎭 Playwright Automation Framework
+
+✔ Page Object Model (POM)
+
+✔ Fixtures
+
+✔ API Testing
+
+✔ Data Driven Testing
+
+✔ HTML Reports
+
+✔ GitHub Actions
+
+✔ Visual Testing
+
+✔ Parallel Execution
+
+</td>
+
+<td width="50%">
+
+### 🌐 Flask PillowTalks
+
+Anonymous real-time chat application
+
+- Flask
+- Flask-SocketIO
+- Authentication
+- User Matching
+- Live Chat
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌱 Argi-Shield
+
+Agriculture disease prediction
+
+- Python
+
+- Machine Learning
+
+- Data Analysis
+
+- Recommendation System
+
+</td>
+
+<td width="50%">
+
+### 🏥 Civic Tracker
+
+Complaint Management System
+
+- Django
+
+- Python
+
+- MySQL
+
+- Authentication
+
+- Admin Panel
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎭 Playwright Automation Framework
+
+Enterprise-ready automation framework built using **Playwright** and **TypeScript**.
+
+**Highlights**
+- ✅ Page Object Model (POM)
+- ✅ API Testing
+- ✅ Data-Driven Testing
+- ✅ Fixtures
+- ✅ Visual Testing
+- ✅ HTML Reports
+
+**Tech:** Playwright • TypeScript • Node.js
+
+</td>
+
+<td width="50%">
+
+### 💬 PillowTalks
+
+Anonymous real-time chat application with user authentication and matchmaking.
+
+**Highlights**
+- ✅ Authentication
+- ✅ Real-time Chat
+- ✅ User Matching
+- ✅ Flask-SocketIO
+
+**Tech:** Flask • Python • Socket.IO
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌱 Argi-Shield
+
+AI-powered agriculture platform for crop disease prediction and fertilizer recommendations.
+
+**Highlights**
+- ✅ Disease Prediction
+- ✅ Recommendation System
+- ✅ Data Analysis
+
+**Tech:** Python • Machine Learning
+
+</td>
+
+<td width="50%">
+
+### 🏛 Civic Tracker
+
+Complaint Management System for citizens with admin dashboard.
+
+**Highlights**
+- ✅ User Authentication
+- ✅ Complaint Tracking
+- ✅ Admin Dashboard
+
+**Tech:** Django • Python • MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+# 📊 GitHub Profile
+
+```text
+💻 Backend Development
+✔ Django
+✔ Flask
+
+🧪 Test Automation
+✔ Playwright
+✔ Selenium
+
+🌐 Web Technologies
+✔ HTML
+✔ CSS
+✔ JavaScript
+✔ TypeScript
+
+🐍 Programming
+✔ Python
+
+🗄 Database
+✔ MySQL
+
+🛠 Tools
+✔ Git
+✔ GitHub
+✔ VS Code
+✔ Docker
+✔ Postman
+```
+
+---
+
+> **"Quality is never an accident; it is always the result of intelligent effort."**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/dikson-sharma-aribam-dsa2001">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:diksonsharma003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dikson01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
