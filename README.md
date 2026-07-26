@@ -33,9 +33,10 @@ Learning:
   - GitHub Actions
   - AI Testing
 
-Goal:
-  Land a QA Automation Engineer role
-  and build world-class automation frameworks.
+Current Mission:
+  Build scalable automation frameworks,
+  contribute to open-source projects,
+  and begin my career as a QA Automation Engineer.
 
 Fun Fact:
   I enjoy building clean automation frameworks
@@ -71,4 +72,14 @@ Fun Fact:
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=playwright,ts,js,python,nodejs,html,css,git,github,vscode,docker,postman,mysql&perline=7"/>
+
+</div>
 
