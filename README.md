@@ -55,10 +55,6 @@ Fun Fact:
 
 ## 💼 Professional Stack
 
----
-
-## 💼 Professional Stack
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -87,91 +83,6 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=playwright,selenium,ts,js,python,django,flask,nodejs,html,css,git,github,vscode,docker,mysql&perline=5"/>
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎭 Playwright Automation Framework
-
-✔ Page Object Model (POM)
-
-✔ Fixtures
-
-✔ API Testing
-
-✔ Data Driven Testing
-
-✔ HTML Reports
-
-✔ GitHub Actions
-
-✔ Visual Testing
-
-✔ Parallel Execution
-
-</td>
-
-<td width="50%">
-
-### 🌐 Flask PillowTalks
-
-Anonymous real-time chat application
-
-- Flask
-- Flask-SocketIO
-- Authentication
-- User Matching
-- Live Chat
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌱 Argi-Shield
-
-Agriculture disease prediction
-
-- Python
-
-- Machine Learning
-
-- Data Analysis
-
-- Recommendation System
-
-</td>
-
-<td width="50%">
-
-### 🏥 Civic Tracker
-
-Complaint Management System
-
-- Django
-
-- Python
-
-- MySQL
-
-- Authentication
-
-- Admin Panel
-
-</td>
-
-</tr>
-
-</table>
-
 
 ---
 
