@@ -7,3 +7,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Playwright+%7C+TypeScript;API+Testing+%7C+UI+Automation;Learning+Docker+%26+CI%2FCD;Future+AI+Testing+Engineer;Always+Learning+🚀)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Dikson Sharma Aribam
+
+Role: QA Automation Engineer
+
+Location: India 🇮🇳
+
+Current Focus:
+  - Playwright
+  - TypeScript
+  - API Testing
+  - CI/CD
+  - Docker
+  - AI Testing
+
+Learning:
+  - Advanced Playwright
+  - Selenium
+  - GitHub Actions
+  - AI Testing
+
+Goal:
+  Land a QA Automation Engineer role
+  and build world-class automation frameworks.
+
+Fun Fact:
+  I enjoy building clean automation frameworks
+  more than writing flaky test cases 😄
+```
